@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sistema/1.0.0": {
+        "dependencies": {
+          "sistema.dal": "1.0.0"
+        },
+        "runtime": {
+          "Sistema.dll": {}
+        }
+      },
+      "sistema.dal/1.0.0": {
+        "runtime": {
+          "sistema.dal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistema/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "sistema.dal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

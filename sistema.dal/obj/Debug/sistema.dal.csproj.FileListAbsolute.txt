@@ -1,0 +1,11 @@
+C:\Users\Coringa\Desktop\C#\Sistema\Sistema\sistema.dal\bin\Debug\sistema.dal.dll.config
+C:\Users\Coringa\Desktop\C#\Sistema\Sistema\sistema.dal\bin\Debug\sistema.dal.dll
+C:\Users\Coringa\Desktop\C#\Sistema\Sistema\sistema.dal\bin\Debug\sistema.dal.pdb
+C:\Users\Coringa\Desktop\C#\Sistema\Sistema\sistema.dal\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Coringa\Desktop\C#\Sistema\Sistema\sistema.dal\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Coringa\Desktop\C#\Sistema\Sistema\sistema.dal\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Coringa\Desktop\C#\Sistema\Sistema\sistema.dal\obj\Debug\sistema.dal.csproj.AssemblyReference.cache
+C:\Users\Coringa\Desktop\C#\Sistema\Sistema\sistema.dal\obj\Debug\sistema.dal.csproj.CoreCompileInputs.cache
+C:\Users\Coringa\Desktop\C#\Sistema\Sistema\sistema.dal\obj\Debug\sistema.dal.csproj.CopyComplete
+C:\Users\Coringa\Desktop\C#\Sistema\Sistema\sistema.dal\obj\Debug\sistema.dal.dll
+C:\Users\Coringa\Desktop\C#\Sistema\Sistema\sistema.dal\obj\Debug\sistema.dal.pdb
